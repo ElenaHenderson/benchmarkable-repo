@@ -1,0 +1,8 @@
+[
+  {
+    "command": "simple-benchmark --iterations=3",
+    "flags": {
+      "language": "Python"
+    }
+  }
+]
